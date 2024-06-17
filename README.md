@@ -9,10 +9,6 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center"> </h1 >
-    <img align="center" height="80" width="40" alt="python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-    <img align="center" height="80" width="40" alt="Java"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-      <img align="center" height="80" width="40" alt="CPP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
 
 
    </div>
