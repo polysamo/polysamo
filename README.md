@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="#">
-    <img height=180px src="https://github-readme-stats.vercel.app/api?username=Polyana150&show_icons=true&theme=dracula">
+    <img height=160px src="https://github-readme-stats.vercel.app/api?username=Polyana150&show_icons=true&theme=dracula">
   </a>
   <a href="https://github.com/Polyana150?tab=repositories">
-    <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polyana150&layout=donut&hide_progress=true&langs_count=16&theme=dracula">
+    <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polyana150&layout=donut&hide_progress=true&langs_count=16&theme=dracula">
   </a>
 </div>
 
