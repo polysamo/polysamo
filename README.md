@@ -3,7 +3,7 @@
 <div>
   
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=Polyana150&show_icons=true&theme=date_night"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polyana150&layout=donut&hide_progress=true&langs_count=16&theme=date_night"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polyana150&layout=donut&hide_progress=true&langs_count=16&theme=date_night"/>
 </div>
 <br>
 
