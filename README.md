@@ -1,18 +1,20 @@
 ## Activity
 
-<div>
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Polyana150&show_icons=true&theme=dracula"/>
-  <img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polyana150&layout=donut&hide_progress=true&langs_count=16&theme=dracula"/>
-</div>
-<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
 
+<div align="center">
+  <a href="#">
+    <img height=180px src="https://github-readme-stats.vercel.app/api?username=Polyana150&show_icons=true&theme=dracula">
+  </a>
+  <a href="https://github.com/Polyana150?tab=repositories">
+    <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polyana150&layout=donut&hide_progress=true&langs_count=16&theme=dracula">
+  </a>
+</div>
 
    
-## Repositories
+# Repositories
 
 
   <div> 
@@ -39,7 +41,9 @@
 
     
   
-  <h1 align="center">Redes Sociais</h1>
+  # Social Media
+  
+  </div>
     <a href = "mailto: polyanamoraes05@gmail.com">
       <img height="30" width="40" src="gmail.svg">
     </a>
