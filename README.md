@@ -6,10 +6,10 @@
     </div>
     <div>
       <a href="#">
-        <img height=160px src="https://github-readme-stats.vercel.app/api?username=Polyana150&show_icons=true&theme=dracula">
+        <img height=160px src="https://github-readme-stats.vercel.app/api?username=polysamo&show_icons=true&theme=dracula">
       </a>
-      <a href="https://github.com/Polyana150?tab=repositories">
-        <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polyana150&layout=donut&hide_progress=true&langs_count=16&theme=dracula">
+      <a href="https://github.com/polysamo?tab=repositories">
+        <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=polysamo&layout=donut&hide_progress=true&langs_count=16&theme=dracula">
       </a>
     </div>
   </div>
@@ -18,11 +18,11 @@
 ## Repositories
 
 <div align="center"> 
-<a href="//github.com/Polyana150/quantumnet"> 
-  <img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=Polyana150&repo=quantumnet&theme=dracula">
+<a href="//github.com/polysamo/quantumnet"> 
+  <img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=quantumnet&theme=dracula">
 </a>
-<a href="//github.com/Polyana150/Gercom"> 
-<img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=Polyana150&repo=Gercom&theme=dracula">
+<a href="//github.com/polysamo/Gercom"> 
+<img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=Gercom&theme=dracula">
 </a> 
 </div>
 
