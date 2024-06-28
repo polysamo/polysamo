@@ -1,21 +1,15 @@
 ## Activity
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: flex-start;">
-    <div style="text-align: right; margin-right: 20px;">
-    </div>
-    <div>
-      <a href="#">
-        <img height=160px src="https://github-readme-stats.vercel.app/api?username=polysamo&show_icons=true&theme=dracula">
-      </a>
-      <a href="https://github.com/polysamo?tab=repositories">
-        <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=polysamo&layout=donut&hide_progress=true&langs_count=16&theme=dracula">
-      </a>
-    </div>
-  </div>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polysamo&show_icons=true&theme=dracula"/>
+  <a href="https://github.com/polysamo?tab=repositories">
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polysamo&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
 </div>
 
+
 ## Repositories
+
 
 <div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
