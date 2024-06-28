@@ -17,13 +17,23 @@
 
 ## Repositories
 
-<div align="center"> 
-<a href="//github.com/polysamo/quantumnet"> 
-  <img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=quantumnet&theme=dracula">
-</a>
-<a href="//github.com/polysamo/Gercom"> 
-<img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=Gercom&theme=dracula">
-</a> 
+<div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <a href="https://github.com/polysamo/quantumnet">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=quantumnet&theme=dracula">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=quantumnet&theme=dracula">
+        <img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=quantumnet&theme=dracula" alt="quantumnet">
+      </picture>
+    </a>
+    <a href="https://github.com/polysamo/Gercom">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=Gercom&theme=dracula">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=Gercom&theme=dracula">
+        <img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=Gercom&theme=dracula" alt="Gercom">
+      </picture>
+    </a>
+  </div>
 </div>
 
 ## Social Media
