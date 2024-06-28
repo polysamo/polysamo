@@ -6,10 +6,10 @@
     </div>
     <div>
       <a href="#">
-        <img height=160px src="https://github-readme-stats.vercel.app/api?username=polysamo&show_icons=true&theme=dracula">
+        <img height=155px src="https://github-readme-stats.vercel.app/api?username=polysamo&show_icons=true&theme=dracula">
       </a>
       <a href="https://github.com/polysamo?tab=repositories">
-        <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=polysamo&layout=donut&hide_progress=true&langs_count=16&theme=dracula">
+        <img height=155px src="https://github-readme-stats.vercel.app/api/top-langs/?username=polysamo&layout=donut&hide_progress=true&langs_count=16&theme=dracula">
       </a>
     </div>
   </div>
