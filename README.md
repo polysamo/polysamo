@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="#">
-    <img height=180px src="https://github-readme-stats.vercel.app/api?username=polysamo&show_icons=true&theme=dracula">
+    <img height=170px src="https://github-readme-stats.vercel.app/api?username=polysamo&show_icons=true&theme=dracula">
   </a>
   <a href="https://github.com/polysamo?tab=repositories">
-    <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=polysamo&layout=compact&langs_count=16&theme=dracula">
+    <img height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=polysamo&layout=compact&langs_count=16&theme=dracula">
   </a>
 </div>
 
