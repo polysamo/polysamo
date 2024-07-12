@@ -15,11 +15,11 @@
 
 <div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <a href="https://github.com/polysamo/quantumnet">
+    <a href="https://github.com/polysamo/Quantum_net">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=quantumnet&theme=dracula">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=quantumnet&theme=dracula">
-        <img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=quantumnet&theme=dracula" alt="quantumnet">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=Quantum_net&theme=dracula">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=Quantum_net&theme=dracula">
+        <img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=polysamo&repo=Quantum_net&theme=dracula" alt="quantumnet">
       </picture>
     </a>
     <a href="https://github.com/polysamo/Gercom">
