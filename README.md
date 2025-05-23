@@ -41,9 +41,6 @@
   <a href="https://www.linkedin.com/in/polyana-moraes-9773252b1/">
     <img height="30" width="40" src="linkedin.svg">
   </a>
-  <a href="https://quantumnet.gercom.ufpa.br/">
-    <img height="30" width="40" src="gercom.svg">
-  </a>
 </div>
 
   
